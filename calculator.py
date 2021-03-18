@@ -1,7 +1,6 @@
 """CLI application for a prefix-notation calculator."""
 
-from arithmetic import *
-
+from arithmetic import *   
 
 while True:
     user_input = input("Enter your equation > ")
