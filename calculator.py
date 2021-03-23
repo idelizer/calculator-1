@@ -2,6 +2,8 @@
 
 from arithmetic import *   
 
+print("Yay, you pushed to github!")
+
 while True:
     user_input = input("Enter your equation > ")
     tokens = user_input.split(" ")
